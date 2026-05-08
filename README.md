@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:11998e,100:38ef7d&height=160&section=header&text=IoT%20Weather%20Monitoring%20System&fontSize=32&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0055FF&height=200&section=header&text=Smart%20Weather%20Monitoring%20System&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
-
 🚀 Project Title
 
 Smart Weather Monitoring System using ESP32, DHT11 Sensor & AWS Cloud
