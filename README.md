@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Smart+Weather+Monitoring+System;ESP32+%2B+DHT11+%2B+AWS+Cloud;Real-Time+IoT+Data+Visualization;Built+for+Smart+Agriculture+%26+Smart+Cities" />
+</p>
+
 🚀 Project Title
 
 Smart Weather Monitoring System using ESP32, DHT11 Sensor & AWS Cloud
@@ -20,7 +24,7 @@ Cloud backend is powered by Amazon Web Services (AWS)
 
 ⚙️ Features
 🌡️ Real-time temperature monitoring
-💧 Humidity tracking using DHT11
+💧 Humidity tracking using DHT11 sensor
 ☁️ Cloud data upload via AWS IoT Core
 📊 Live dashboard visualization
 📡 Wireless communication using ESP32
