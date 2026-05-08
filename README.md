@@ -4,6 +4,13 @@
 🚀 Project Title
 
 Smart Weather Monitoring System using ESP32, DHT11 Sensor & AWS Cloud
+<p align="center">
+  <img src="https://img.shields.io/badge/IoT-ESP32-blue" />
+  <img src="https://img.shields.io/badge/Sensor-DHT11-green" />
+  <img src="https://img.shields.io/badge/Cloud-AWS-orange" />
+  <img src="https://img.shields.io/badge/Protocol-MQTT-red" />
+  <img src="https://img.shields.io/badge/Status-Active-success" />
+</p>
 
 🌐 Project Overview (for GitHub README)
 
@@ -31,15 +38,24 @@ Cloud backend is powered by Amazon Web Services (AWS)
 - 📱 Mobile/Browser access via cloud dashboard
 
 🧰 Hardware Used
-- ESP32 Development Board
-- DHT11 Temperature & Humidity Sensor
-- Jumper Wires
-- Breadboard
-- Wi-Fi Connection
+- 📡 ESP32 Development Board
+- 🌡️ DHT11 sensor Temperature & Humidity Sensor
+- 🔌 Jumper Wires
+- 🧩 Breadboard
+- 📶 Wi-Fi Connection
 
 🧠 Software Used
-- Arduino IDE / PlatformIO
-- AWS IoT Core
-- MQTT Protocol
-- JSON Data Format
-- Optional: Grafana / AWS QuickSight Dashboard
+- 💻 Arduino IDE / PlatformIO
+- ☁️ AWS IoT Core
+- 📡 MQTT Protocol
+- 📦 JSON Data Format
+- 📊 Optional: Grafana / AWS QuickSight Dashboard
+
+## 🏗️ System Architecture
+<img width="222" height="211" alt="image" src="https://github.com/user-attachments/assets/4b0cd573-5ac7-4e3d-8812-71e53d3bfb12" />
+
+##📂 GitHub Repository Structure 
+<img width="215" height="416" alt="image" src="https://github.com/user-attachments/assets/76bd94fd-d59e-426e-bb4e-6c821d2f450b" />
+
+
+
