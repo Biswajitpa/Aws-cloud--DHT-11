@@ -57,5 +57,6 @@ Cloud backend is powered by Amazon Web Services (AWS)
 ##📂 GitHub Repository Structure 
 <img width="215" height="416" alt="image" src="https://github.com/user-attachments/assets/76bd94fd-d59e-426e-bb4e-6c821d2f450b" />
 
-
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Smart+Weather+Monitoring+System;ESP32+%2B+DHT11+%2B+AWS+Cloud;Real-Time+IoT+Data+Visualization;Built+for+Smart+Agriculture+%26+Smart+Cities" />
+</p>
