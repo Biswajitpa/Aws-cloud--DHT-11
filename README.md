@@ -29,12 +29,14 @@ Cloud backend is powered by Amazon Web Services (AWS)
 - 📡 Wireless communication using ESP32
 - 🔔 Expandable alert system (future upgrade)
 - 📱 Mobile/Browser access via cloud dashboard
+
 🧰 Hardware Used
 - ESP32 Development Board
 - DHT11 Temperature & Humidity Sensor
 - Jumper Wires
 - Breadboard
 - Wi-Fi Connection
+
 🧠 Software Used
 - Arduino IDE / PlatformIO
 - AWS IoT Core
