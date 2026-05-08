@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Smart+Weather+Monitoring+System;ESP32+%2B+DHT11+%2B+AWS+Cloud;Real-Time+IoT+Data+Visualization;Smart+Agriculture+%26+Smart+Cities" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0055FF&height=200&section=header&text=Smart%20Weather%20Monitoring%20System&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 🚀 Project Title
 
