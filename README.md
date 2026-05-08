@@ -22,22 +22,22 @@ Cloud backend is powered by Amazon Web Services (AWS)
  IoT Core.
 
 ⚙️ Features
-🌡️ Real-time temperature monitoring
-💧 Humidity tracking using DHT11 sensor
-☁️ Cloud data upload via AWS IoT Core
-📊 Live dashboard visualization
-📡 Wireless communication using ESP32
-🔔 Expandable alert system (future upgrade)
-📱 Mobile/Browser access via cloud dashboard
+- 🌡️ Real-time temperature monitoring
+- 💧 Humidity tracking using DHT11 sensor
+- ☁️ Cloud data upload via AWS IoT Core
+- 📊 Live dashboard visualization
+- 📡 Wireless communication using ESP32
+- 🔔 Expandable alert system (future upgrade)
+- 📱 Mobile/Browser access via cloud dashboard
 🧰 Hardware Used
-ESP32 Development Board
-DHT11 Temperature & Humidity Sensor
-Jumper Wires
-Breadboard
-Wi-Fi Connection
+- ESP32 Development Board
+- DHT11 Temperature & Humidity Sensor
+- Jumper Wires
+- Breadboard
+- Wi-Fi Connection
 🧠 Software Used
-Arduino IDE / PlatformIO
-AWS IoT Core
-MQTT Protocol
-JSON Data Format
-Optional: Grafana / AWS QuickSight Dashboard
+- Arduino IDE / PlatformIO
+- AWS IoT Core
+- MQTT Protocol
+- JSON Data Format
+- Optional: Grafana / AWS QuickSight Dashboard
