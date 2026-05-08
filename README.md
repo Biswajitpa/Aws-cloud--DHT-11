@@ -19,11 +19,10 @@ This project is an IoT-based real-time weather monitoring system that uses an ES
 The data is visualized in real time using cloud services, allowing remote monitoring from anywhere in the world.
 
 It is useful for:
-
-Smart agriculture 🌾
-Smart home monitoring 🏠
-Weather stations 🌦️
-Industrial environment tracking 🏭
+- Smart agriculture 🌾
+- Smart home monitoring 🏠
+- Weather stations 🌦️
+- Industrial environment tracking 🏭
 
 Cloud backend is powered by Amazon Web Services (AWS)
  IoT Core.
