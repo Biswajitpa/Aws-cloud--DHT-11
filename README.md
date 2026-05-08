@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63,200:24243e&height=180&section=header&text=ESP32%20%2B%20AWS%20IoT%20Weather%20System&fontSize=30&fontColor=00F7FF&animation=blinking"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:11998e,100:38ef7d&height=160&section=header&text=IoT%20Weather%20Monitoring%20System&fontSize=32&fontColor=ffffff"/>
 </p>
 
 🚀 Project Title
