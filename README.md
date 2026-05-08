@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Smart+Weather+Monitoring+System;ESP32+%2B+DHT11+%2B+AWS+Cloud;Real-Time+IoT+Data+Visualization;Built+for+Smart+Agriculture+%26+Smart+Cities" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=🚀+Smart+Weather+Monitoring+System;🌡️+ESP32+%2B+DHT11+%2B+AWS+Cloud+Integration;☁️+Real-Time+IoT+Data+Visualization;📡+Wireless+Sensor+Data+Streaming;🌾+Built+for+Smart+Agriculture+%26+Smart+Cities" />
 </p>
-
 🚀 Project Title
 
 Smart Weather Monitoring System using ESP32, DHT11 Sensor & AWS Cloud
