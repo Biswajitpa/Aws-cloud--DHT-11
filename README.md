@@ -53,6 +53,7 @@ Cloud backend is powered by Amazon Web Services (AWS)
 ## 🏗️ System Architecture
 <img width="222" height="211" alt="image" src="https://github.com/user-attachments/assets/4b0cd573-5ac7-4e3d-8812-71e53d3bfb12" />
 
+
 ##📂 GitHub Repository Structure 
 <img width="215" height="416" alt="image" src="https://github.com/user-attachments/assets/76bd94fd-d59e-426e-bb4e-6c821d2f450b" />
 
