@@ -13,7 +13,7 @@ Smart Weather Monitoring System using ESP32, DHT11 Sensor & AWS Cloud
   <img src="https://img.shields.io/badge/Status-Active-success" />
 </p>
 
-🌐 Project Overview (for GitHub README)
+
 
 This project is an IoT-based real-time weather monitoring system that uses an ESP32 microcontroller with a DHT11 temperature & humidity sensor to collect environmental data and send it to Amazon AWS Cloud.
 
