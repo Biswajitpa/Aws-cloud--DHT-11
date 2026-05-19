@@ -1,9 +1,10 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0055FF&height=200&section=header&text=Smart%20Weather%20Monitoring%20System&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
-🚀 Project Title
 
+## 🚀 Project Title
 Smart Weather Monitoring System using ESP32, DHT11 Sensor & AWS Cloud
+
 <p align="center">
   <img src="https://img.shields.io/badge/IoT-ESP32-blue" />
   <img src="https://img.shields.io/badge/Sensor-DHT11-green" />
